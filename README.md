@@ -11,7 +11,7 @@ Read the article on SitePoint: <https://www.sitepoint.com/create-chrome-extensio
 * [Google Chrome](https://www.google.com/chrome/index.html)
 * [A ChatGPT account](https://openai.com/chatgpt)
 
-## Installation Steps (if applicable)
+## Installation Steps
 
 To load the unpacked extension:
 
