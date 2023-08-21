@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT Molly-guard",
+  "version": "1.0",
+  "description": "Prevents submission if specific words are typed into chat window",
+  "content_scripts": [
+    {
+      "matches": ["https://chat.openai.com/*"],
+      "css": ["styles.css"],
+      "js": ["wordsList.js", "contentScript.js"]
+    }
+  ]
+}
